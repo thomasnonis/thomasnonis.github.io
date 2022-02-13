@@ -987,7 +987,7 @@ content: '';
 
 .work-areas .area .icon i {
     display: inline-block;
-    margin-top: -8px;
+    margin-top: 0px;
 }
 
 .work-areas .area .icon i:before {
